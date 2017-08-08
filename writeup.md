@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/ (Image References)
 
-[image_A]: ./pipeline_results/masked.png "mssked"
+[image_A]: //pipeline_results/masked.png "mssked"
 
-[image_B]: ./pipeline_results/gray.png "grayscale"
+[image_B]: //pipeline_results/gray.png "grayscale"
 
-[image_C]: ./pipeline_results/gaussian.png "gaussian"
+[image_C]: //pipeline_results/gaussian.png "gaussian"
 
-[image_D]: ./pipeline_results/edge.png "edge"
+[image_D]: //pipeline_results/edge.png "edge"
 
-[image_E]: ./pipeline_results/hough.jpg "lanes"
+[image_E]: //pipeline_results/hough.jpg "lanes"
 
 [O1]: ./test_images/solidWhiteCurve.jpg
 [C1]: ./test_images_output/solidWhiteCurve.jpg
