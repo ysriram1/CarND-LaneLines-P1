@@ -11,9 +11,9 @@ The goals / steps of this project are the following:
 * Use the pipeline function to continuously find lanes in road video
 
 
-#[//]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/ (Image References)
+[//]: #
 
-[image_A]: pipeline_results/masked.png "mssked"
+[image_A]: pipeline_results/masked.png "masked"
 
 [image_B]: pipeline_results/gray.png "grayscale"
 
@@ -63,15 +63,15 @@ It is worth mentioning that the determination of the mask coordinates, the appli
 
 <ul>
 *** A ***
-![image_A] <br>
+![][image_A] <br>
 *** B ***
-![image_B] <br>
+![][image_B] <br>
 *** C ***
-![image_C] <br>
+![][image_C] <br>
 *** D ***
-![image_D] <br>
+![][image_D] <br>
 *** E ***
-![image_E] <br>
+![][image_E] <br>
 </ul>
 
 ### 2. Testing
