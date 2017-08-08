@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: #
 
-[image_A]: pipeline_results/masked.png "masked"
+[image_A]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png "masked"
 
-[image_B]: pipeline_results/gray.png "grayscale"
+[image_B]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gray.png "grayscale"
 
-[image_C]: pipeline_results/gaussian.png "gaussian"
+[image_C]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gaussian.png "gaussian"
 
-[image_D]: //pipeline_results/edge.png "edge"
+[image_D]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/edge.png "edge"
 
-[image_E]: //pipeline_results/hough.jpg "lanes"
+[image_E]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg "lanes"
 
 [O1]: ./test_images/solidWhiteCurve.jpg
 [C1]: ./test_images_output/solidWhiteCurve.jpg
@@ -63,15 +63,15 @@ It is worth mentioning that the determination of the mask coordinates, the appli
 
 <ul>
 *** A ***
-![][image_A] <br>
+![](image_A) <br>
 *** B ***
-![][image_B] <br>
+![](image_B) <br>
 *** C ***
-![][image_C] <br>
+![](image_C) <br>
 *** D ***
-![][image_D] <br>
+![](image_D]) <br>
 *** E ***
-![][image_E] <br>
+![](image_E) <br>
 </ul>
 
 ### 2. Testing
