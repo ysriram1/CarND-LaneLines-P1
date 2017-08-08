@@ -11,35 +11,35 @@ The goals / steps of this project are the following:
 * Use the pipeline function to continuously find lanes in road video
 
 
-[//]: # (Image References)
+[//]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/ (Image References)
 
-[image_A]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png "mssked"
+[image_A]: ./pipeline_results/masked.png "mssked"
 
-[image_B]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gray.png "grayscale"
+[image_B]: ./pipeline_results/gray.png "grayscale"
 
-[image_C]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gaussian.png "gaussian"
+[image_C]: ./pipeline_results/gaussian.png "gaussian"
 
-[image_D]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/edge.png "edge"
+[image_D]: ./pipeline_results/edge.png "edge"
 
-[image_E]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg "lanes"
+[image_E]: ./pipeline_results/hough.jpg "lanes"
 
-[O1]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidWhiteCurve.jpg
-[C1]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidWhiteCurve.jpg
+[O1]: ./test_images/solidWhiteCurve.jpg
+[C1]: ./test_images_output/solidWhiteCurve.jpg
 
-[O2]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidWhiteRight.jpg
-[C2]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidWhiteRight.jpg
+[O2]: ./test_images/solidWhiteRight.jpg
+[C2]: ./test_images_output/solidWhiteRight.jpg
 
-[O3]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowCurve.jpg
-[C3]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowCurve.jpg
+[O3]: ./test_images/solidYellowCurve.jpg
+[C3]: ./test_images_output/solidYellowCurve.jpg
 
-[O4]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowCurve2.jpg
-[C4]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowCurve2.jpg
+[O4]: ./test_images/solidYellowCurve2.jpg
+[C4]: ./test_images_output/solidYellowCurve2.jpg
 
-[O5]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowLeft.jpg
-[C5]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowLeft.jpg
+[O5]: ./test_images/solidYellowLeft.jpg
+[C5]: ./test_images_output/solidYellowLeft.jpg
 
-[O6]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/whiteCarLaneSwitch.jpg
-[C6]: https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/whiteCarLaneSwitch.jpg
+[O6]: ./test_images/whiteCarLaneSwitch.jpg
+[C6]: ./test_images_output/whiteCarLaneSwitch.jpg
 
 
 ---
