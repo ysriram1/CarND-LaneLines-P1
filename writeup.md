@@ -63,7 +63,7 @@ It is worth mentioning that the determination of the mask coordinates, the appli
 
 <ul>
 *** A ***
-![](https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png ) <br>
+![](https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png) <br>
 *** B ***
 ![](image_B) <br>
 *** C ***
@@ -85,7 +85,7 @@ The pipeline described in the previous section has been applied to different tes
 </tr>
 
 <tr>
-<td> ![O1] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidWhiteCurve.jpg"> </td>
 <td> ![C1] </td>
 </tr>
 
