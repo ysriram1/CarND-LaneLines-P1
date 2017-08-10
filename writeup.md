@@ -62,15 +62,15 @@ Our pipeline consisted of 5 main steps:
 It is worth mentioning that the determination of the mask coordinates, the application of gaussian blurring, edge detection, and the hough transformation process involved a significant amount of parameter tuning in order to detect lines that at least approximately represented the actual lanes in the image.
 
 <ul>
-*** A ***
+<strong> A </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png"> <br>
-*** B ***
+<strong> B </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gray.png"> <br>
-*** C ***
+<strong> C </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gaussian.png"> <br>
-*** D ***
+<strong> D </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/edge.png"> <br>
-*** E ***
+<strong> E </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg"> <br>
 </ul>
 
