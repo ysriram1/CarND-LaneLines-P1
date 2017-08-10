@@ -63,15 +63,15 @@ It is worth mentioning that the determination of the mask coordinates, the appli
 
 <ul>
 *** A ***
-![](https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png) <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/masked.png"> <br>
 *** B ***
-![](image_B) <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gray.png"> <br>
 *** C ***
-![](image_C) <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/gaussian.png"> <br>
 *** D ***
-![](image_D]) <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/edge.png"> <br>
 *** E ***
-![](image_E) <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg"> <br>
 </ul>
 
 ### 2. Testing
@@ -86,32 +86,38 @@ The pipeline described in the previous section has been applied to different tes
 
 <tr>
 <td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidWhiteCurve.jpg"> </td>
-<td> ![C1] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidWhiteCurve.jpg">
+</td>
 </tr>
 
 <tr>
-<td> ![O2] </td>
-<td> ![C2] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidWhiteRight.jpg"> </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidWhiteRight.jpg">
+</td>
 </tr>
 
 <tr>
-<td> ![O3] </td>
-<td> ![C3] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowCurve.jpg"> </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowCurve.jpg">
+</td>
 </tr>
 
 <tr>
-<td> ![O4] </td>
-<td> ![C4] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowCurve2.jpg"> </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowCurve2.jpg">
+</td>
 </tr>
 
 <tr>
-<td> ![O5] </td>
-<td> ![C5] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/solidYellowLeft.jpg"> </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowLeft.jpg">
+</td>
 </tr>
 
 <tr>
-<td> ![O6] </td>
-<td> ![C6] </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images/whiteCarLaneSwitch.jpg"> </td>
+<td> <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/test_images_output/whiteCarLaneSwitch.jpg">
+</td>
 </tr>
 
 </table>
