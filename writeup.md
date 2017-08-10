@@ -71,7 +71,7 @@ It is worth mentioning that the determination of the mask coordinates, the appli
 <strong> D </strong>
 <img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/edge.png"> <br>
 <strong> E </strong>
-<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg"> <br>
+<img src="https://github.com/ysriram1/CarND-LaneLines-P1/blob/master/pipeline_results/hough.jpg" style="width:40%"> <br>
 </ul>
 
 ### 2. Testing
